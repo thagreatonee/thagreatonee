@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there welcome to my Dev space, this is the only place you would find this information online👋
 
-<!--
+
 **thagreatonee/thagreatonee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
