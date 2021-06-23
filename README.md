@@ -16,3 +16,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am very crazy about innovation and strategy.
 - 🤔 Very interested in building my own startup.
 
+### TECH STACK
+☁️ Cloud Services 
+  - AWS SERVICES(EC2, S3 , RECKOGNITION,ROUTE53,RDS)
+  - DIGITAL OCEAN
+
+🧰 LANGUAGES AND FRAMEWORKS
+ - Php [Laravel,Lumen]
+ - Javascript [Nodejs, Express, Nuxt, Vuejs, Adonisjs]
+ - Sql
+ - Go(In progress)
+ - Typescript(In Prgress)
+
+🏬 NOSQL AND SQL
+
+- MariaDB
+- Mysql
+- MongoDb
+
+🛳️ INFRASTRUCTURE TOOLING
+- Prometheus
+- Docker
+- Apache
+- Nginx
+- Redis
+- Rabbitmq
+- Github and Gitlab
+ 
